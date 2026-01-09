@@ -1,0 +1,15 @@
+# Environnements
+.venv/
+__pycache__/
+
+# Conda
+.env/
+
+# Base de données locale
+data/*.db
+
+# Exports
+exports/
+
+# Système
+.DS_Store

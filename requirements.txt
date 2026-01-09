@@ -1,0 +1,9 @@
+# Ce fichier liste les bibliothèques Python nécessaires au bon fonctionnement du projet.
+# Il permet de recréer facilement l’environnement de travail en installant
+
+
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
