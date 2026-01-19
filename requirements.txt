@@ -7,3 +7,8 @@ pandas
 numpy
 matplotlib
 seaborn
+BeautifulSoup
+requests
+httpx
+plotly
+reportlab
