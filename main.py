@@ -31,3 +31,9 @@ st.page_link(
     label="📊 Statistiques",
     help="Vue globale sur la répartition des variétés"
 )
+
+st.page_link(
+    "pages/campagne.py",
+    label="📊 Campagne",
+    help="Camapgne annuelle"
+)

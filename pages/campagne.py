@@ -20,6 +20,7 @@ import plotly.express as px
 
 from services import db as db
 from services import pdf_service as pdfserv
+from services import rotation_service as rotation
 
 #-----------------------------------------
 # FONCTIONS

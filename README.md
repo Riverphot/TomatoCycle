@@ -24,19 +24,6 @@ L’association dispose d’un grand nombre de variétés, mais ne peut en culti
 - Suivre les résultats de germination
 - Produire des documents de synthèse (PDF)
 
----
-
-## 🧱 Architecture du projet
-
-Le projet est structuré afin de **séparer clairement les responsabilités** :
-
-- **models/** : entités métier, référentiels et paramètres globaux  
-- **data_access/** : accès aux données (base SQLite, scraping, API)  
-- **services/** : logique métier et traitements  
-- **ui/** : interface utilisateur Streamlit  
-
-Cette organisation vise à améliorer la lisibilité, la maintenabilité et l’évolutivité du code.
-
 
 ---
 ## 🛠️ Technologies utilisées
